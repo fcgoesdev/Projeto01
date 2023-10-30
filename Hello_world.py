@@ -8,6 +8,9 @@ for i in frase:
 bombons = 10
 
 while bombons > 0:
-    print(f"Eu tenho {bombons} Bombons.")
+    if bombons > 1:
+        print(f"Eu tenho {bombons} Bombons.")
+    else:
+        print(f"Eu tenho {bombons} Bombom.")
     bombons = bombons - 1
     print(f"Comi 1 Bombom e fiquei com {bombons}!!!")
