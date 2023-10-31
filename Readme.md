@@ -7,3 +7,5 @@ Este é o meu primeiro projeto utilizando o **Git** e o **Github**.
 - Adcionada uma nova funcionalidade.
 
 ## Mais uma modificação para fazer teste.
+
+** Apenas uma modificação simples para commitar. **
