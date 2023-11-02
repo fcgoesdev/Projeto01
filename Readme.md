@@ -9,3 +9,5 @@ Este é o meu primeiro projeto utilizando o **Git** e o **Github**.
 ## Mais uma modificação para fazer teste.
 
 ** Apenas uma modificação simples para commitar. **
+
+** Mantendo as atualização diárias no Github para não perder a prática... **

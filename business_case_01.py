@@ -6,3 +6,5 @@ altura = input ('Digite a altura do aluno(a): ')
 imc = float(peso) / (float(altura)**2)
 
 print (imc)
+
+#para utilizar o código acima será necessário aprender a formatar um template e usar uma biblioteca manipuladora de PDF para imprimir as fichas de aluno.
