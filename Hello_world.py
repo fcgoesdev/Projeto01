@@ -23,3 +23,4 @@ while bombons > 0:
 
 somar_numeros()
 
+print('Mais uma atualização do projeto!')
